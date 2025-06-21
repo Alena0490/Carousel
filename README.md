@@ -1,6 +1,6 @@
 # 🌳 Happy Tree Friends Carousel
 
-![Mockup carouselu](img/htp-carousel-mockup.jpg)
+![Mockup carouselu](htp-carousel-mockup.jpg)
 
 Projekt je plně responzivní **carousel postaviček Happy Tree Friends**, vytvořený čistě pomocí **HTML, CSS a JavaScriptu**.  
 Využívá nové CSS funkce jako `::scroll-button()` a `::scroll-marker` pro interaktivní posouvání a vizuální orientaci bez externích knihoven.
